@@ -1,6 +1,7 @@
 Small Group Project TXT Here
 
-EDIT ME PLZ
-I have worked on this small group assignment.
+git pull- download changes from remote repo to local.
+git push- upload git commits to remote repo.
+git status- shows everything you need to know about the current branch. 
 
-More work done here. 
+git add - tracks files and changes in git.
