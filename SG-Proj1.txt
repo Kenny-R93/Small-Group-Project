@@ -1,3 +1,5 @@
 Small Group Project TXT Here
 
+Message about commit
+
 EDIT ME PLZ
